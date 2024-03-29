@@ -1,1 +1,1 @@
-I changed it
+git remote add origin https://github.com/AnnKolchina/GitPractis.gitI changed it
