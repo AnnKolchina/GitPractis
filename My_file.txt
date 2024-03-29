@@ -1,3 +1,5 @@
 I created a new file for new branch
 I added changes to this file
 Add extra change
+git branch another_branch
+git switch another_branch
